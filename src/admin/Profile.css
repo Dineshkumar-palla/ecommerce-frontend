@@ -1,0 +1,18 @@
+.profile {
+  background: white;
+  padding: 20px;
+  border-radius: 10px;
+  width: 300px;
+}
+
+.profile input {
+  width: 100%;
+  margin-top: 10px;
+  padding: 10px;
+}
+
+.profile button {
+  margin-top: 15px;
+  background: #ff7a00;
+  color: white;
+}

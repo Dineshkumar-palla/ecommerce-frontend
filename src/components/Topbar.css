@@ -1,0 +1,45 @@
+.topbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  width: 97%;
+  padding: 10px 20px;
+
+  background: #111;   /* dark like amazon */
+  color: white;
+  position: sticky;         /* stays on top */
+
+}
+
+/* LEFT SIDE */
+.top-left {
+  display: flex;
+  align-items: center;
+  gap: 30px;
+}
+
+.menu span {
+  margin-right: 15px;
+  cursor: pointer;
+  font-size: 14px;
+}
+
+.menu span:hover {
+  color: #ff7a00;
+}
+
+/* RIGHT SIDE */
+.top-right {
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+}
+
+.top-right svg {
+  color: white;
+}
+
+.top-right:hover svg {
+  color: #ff7a00;
+}
