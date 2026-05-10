@@ -604,14 +604,23 @@ Contributions are welcome.
 ---
 Screenshot :
 Home Page 
-<img width="1745" height="2828" alt="image" src="https://github.com/user-attachments/assets/bbacee08-2119-4e6e-9767-f7968d3561e3" />
+
+<img width="2400" height="4666" alt="localhost_3000_" src="https://github.com/user-attachments/assets/da0159c1-9880-4518-a0a2-6f309b8df977" />
+
 Carts 
+
 <img width="1745" height="1619" alt="image" src="https://github.com/user-attachments/assets/c8138629-1f9a-403a-b4e9-4ebf12eabe34" />
+
 Login Pages 
+
 <img width="1905" height="900" alt="Screenshot 2026-04-24 193718" src="https://github.com/user-attachments/assets/d6100c1c-825b-4dd6-b259-3b25cff97893" />
+
 <img width="1916" height="907" alt="image" src="https://github.com/user-attachments/assets/64c50306-faaf-424e-87dc-e6b8e7340b79" />
+
 <img width="1913" height="903" alt="image" src="https://github.com/user-attachments/assets/0b95a8b0-a355-499b-bd76-104521a12870" />
+
 Admin Login
+
 <img width="1882" height="946" alt="image" src="https://github.com/user-attachments/assets/60a877d7-d229-4916-b39c-3e798b7b8d78" />
 
 
